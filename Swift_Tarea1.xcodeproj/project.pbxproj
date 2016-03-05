@@ -47,6 +47,7 @@
 		E37972CA1C8ABF92001A936B /* Swift_Tarea1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_Tarea1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E37972CE1C8ABF92001A936B /* Swift_Tarea1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Tarea1UITests.swift; sourceTree = "<group>"; };
 		E37972D01C8ABF92001A936B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E37972DC1C8AC0E5001A936B /* Swift_Tarea1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Swift_Tarea1.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 				E37972AE1C8ABF92001A936B /* AppDelegate.swift */,
 				E37972B01C8ABF92001A936B /* ViewController.swift */,
 				E37972B21C8ABF92001A936B /* Main.storyboard */,
+				E37972DC1C8AC0E5001A936B /* Swift_Tarea1.playground */,
 				E37972B51C8ABF92001A936B /* Assets.xcassets */,
 				E37972B71C8ABF92001A936B /* LaunchScreen.storyboard */,
 				E37972BA1C8ABF92001A936B /* Info.plist */,
